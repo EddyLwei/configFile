@@ -1,0 +1,13 @@
+{
+    "confirm": {"key":"confirm", "language":"Confirm"},
+    "cancel": {"key":"cancel", "language":"Cancel"},
+    "return": {"key":"return", "language":"Return"},
+    "start": {"key":"start", "language":"Start"},
+    "noRotaTimes": {"key":"noRotaTimes", "language":"The number of rotations has been used up"},
+    "rotating": {"key":"rotating", "language":"Rotating"},
+    "noCoin": {"key":"noCoin", "language":"Insufficient gold coins"},
+    "test": {"key":"test", "language":"test Language"},
+    "use": {"key":"use", "language":"Use"},
+    "rotaAuto": {"key":"rotaAuto", "language":"Start automatic rotation"},
+    "collect": {"key":"collect", "language":"Collect six colors to get one free time"}
+}
