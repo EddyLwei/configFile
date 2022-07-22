@@ -1,0 +1,9 @@
+{
+    "1": {"id":1, "name":"star", "resPath":"reward_star", "flyTarget":2},
+    "2": {"id":2, "name":"bulb", "resPath":"reward_bulb", "flyTarget":3},
+    "3": {"id":3, "name":"coupons", "resPath":"reward_coupons", "flyTarget":2},
+    "4": {"id":4, "name":"card", "resPath":"reward_card", "flyTarget":2},
+    "5": {"id":5, "name":"coin", "resPath":"reward_coin", "flyTarget":1},
+    "6": {"id":6, "name":"ticket", "resPath":"reward_ticket", "flyTarget":2},
+    "7": {"id":7, "name":"ball", "resPath":"reward_card", "flyTarget":10}
+}

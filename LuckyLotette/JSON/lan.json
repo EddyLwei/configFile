@@ -1,0 +1,20 @@
+{
+    "confirm": {"key":"confirm", "language":"Confirm"},
+    "cancel": {"key":"cancel", "language":"Cancel"},
+    "noRotaTimes": {"key":"noRotaTimes", "language":"Not enough spins"},
+    "rotating": {"key":"rotating", "language":"Spinning"},
+    "noCoinTitle": {"key":"noCoinTitle", "language":"Golds are insufficient"},
+    "noCoinContent": {"key":"noCoinContent", "language":"Golds can be obtained through tasks"},
+    "use": {"key":"use", "language":"Use"},
+    "rotaAuto": {"key":"rotaAuto", "language":"Start auto-spin"},
+    "collect": {"key":"collect", "language":"Collect 6 colors to get 10 free spins"},
+    "freeTimes": {"key":"freeTimes", "language":"Free times"},
+    "fail": {"key":"fail", "language":"Game failed, please re open the game"},
+    "infoTitle": {"key":"infoTitle", "language":"Prop details"},
+    "goView": {"key":"goView", "language":"Go to view"},
+    "lotteryNumTitle": {"key":"lotteryNumTitle", "language":"Congrats on getting lottery numbers"},
+    "draw": {"key":"draw", "language":"Draw"},
+    "dateFormat": {"key":"dateFormat", "language":"MM/dd/yyyy hh:mm"},
+    "loadingTips": {"key":"loadingTips", "language":"Loading data, please try again later"},
+    "doTask": {"key":"doTask", "language":"Do tasks"}
+}

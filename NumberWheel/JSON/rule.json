@@ -1,0 +1,10 @@
+{
+    "1": {"id":1, "key":"rulesT-1", "type":1},
+    "2": {"id":2, "key":"rulesC-11", "type":2},
+    "3": {"id":3, "key":"rulesC-12", "type":2},
+    "4": {"id":4, "key":"rulesT-2", "type":1},
+    "5": {"id":5, "key":"rulesC-21", "type":2},
+    "6": {"id":6, "key":"rulesC-22", "type":2},
+    "7": {"id":7, "key":"rulesT-3", "type":1},
+    "8": {"id":8, "key":"rulesC-31", "type":2}
+}

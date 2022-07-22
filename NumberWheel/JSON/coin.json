@@ -1,0 +1,12 @@
+{
+    "1": {"id":1, "coin":0.52, "img":"c_green", "rm_img":"https://philippines-file.luckymaster.vip/props/GoldCoin.png"},
+    "2": {"id":2, "coin":2.6, "img":"c_blue", "rm_img":"https://philippines-file.luckymaster.vip/props/GoldCoin.png"},
+    "3": {"id":3, "coin":5.2, "img":"c_pink", "rm_img":"https://philippines-file.luckymaster.vip/props/Discount%20Card%20of%20Android%20Box.png"},
+    "4": {"id":4, "coin":13, "img":"c_purple", "rm_img":"https://philippines-file.luckymaster.vip/props/Refund%20Card%20of%20Food%20Box.png"},
+    "5": {"id":5, "coin":26, "img":"c_red", "rm_img":"https://philippines-file.luckymaster.vip/props/Discount%20Random.png"},
+    "6": {"id":6, "coin":52, "img":"c_yellow", "rm_img":"https://philippines-file.luckymaster.vip/props/Refund%20Card%20of%20Mix%20Box.png"},
+    "7": {"id":7, "coin":260, "img":"c_pink_yellow", "rm_img":"https://philippines-file.luckymaster.vip/props/lottery.png"},
+    "8": {"id":8, "coin":520, "img":"c_purple_yellow", "rm_img":"https://philippines-file.luckymaster.vip/props/lottery.png"},
+    "9": {"id":9, "coin":2600, "img":"c_black_yellow", "rm_img":"https://philippines-file.luckymaster.vip/props/Discount%20Card%20of%20Mix%20Box.png"},
+    "10": {"id":10, "coin":5200, "img":"c_black_gold", "rm_img":"https://philippines-file.luckymaster.vip/props/Discount%20Card%20of%20Mix%20Box.png"}
+}
